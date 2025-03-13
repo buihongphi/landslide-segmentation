@@ -1,5 +1,7 @@
 # Dataset
 The dataset used in this project can be found on Kaggle: Landslide Segmentation Dataset.https://www.kaggle.com/datasets/niyarrbarman/landslide-divided
+
+<img src="https://i.imgur.com/Dq3XSqx.png">
 # Getting Started
 To get started with this project:
 
